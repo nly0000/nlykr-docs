@@ -71,3 +71,6 @@ API usage and policies are documented on the official website.
 This repository serves as a public reference and documentation space for the nly.kr service.
 
 It is intended to provide an overview of available features, usage concepts, and service structure.
+
+
+For Korean documentation, see README.ko.md.
