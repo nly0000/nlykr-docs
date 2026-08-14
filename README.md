@@ -1,26 +1,30 @@
 # nly.kr Documentation
 
-This repository provides an overview and documentation of the nly.kr service.
+This repository provides official documentation and an overview of **nly.kr**, a web-based platform for URL shortening, QR code generation, link management, and online document tools.
 
-nly.kr is a web-based platform offering URL shortening and online document (PDF) generation tools.
+## Official Links
 
-Official website: https://nly.kr
+- [nly.kr Official Website](https://nly.kr/)
+- [nly.kr Free URL Shortener](https://nly.kr/create-short-url)
+- [URL Shortener API Documentation](https://nly.kr/api)
+- [Chrome Extension](https://nly.kr/chrome-extension)
 
 ---
 
 ## Overview
 
-nly.kr focuses on simplifying link sharing and document distribution through lightweight and fast web tools.
+nly.kr provides lightweight web tools designed to simplify link sharing and document distribution.
 
-The service is designed to be usable without mandatory sign-up, while offering additional features for registered users.
+The service can be used without mandatory sign-up for basic features, while registered users can access additional link management and statistics features.
 
 ---
 
 ## URL Shortener
 
-The URL shortener allows users to convert long URLs into short, shareable links.
+The [nly.kr URL Shortener](https://nly.kr/create-short-url) allows users to convert long URLs into short, shareable links.
 
 ### Key Characteristics
+
 - Immediate URL shortening without login
 - Short and minimal URL structure
 - HTTPS-based secure redirection
@@ -30,39 +34,52 @@ The URL shortener allows users to convert long URLs into short, shareable links.
 - Developer API support
 
 ### Typical Use Cases
-- Sharing links on social media or messaging platforms
-- QR code generation for offline materials
-- Campaign and marketing links
-- Temporary or disposable URLs
 
-More details are available on the official site:
-https://nly.kr/product
+- Sharing links on social media or messaging platforms
+- Creating QR codes for offline materials
+- Sharing long campaign or tracking URLs
+- Creating cleaner links for documents, presentations, and websites
+
+Use the URL shortener:
+https://nly.kr/create-short-url
+
+---
+
+## URL Shortener API
+
+Developers can integrate nly.kr URL shortening into websites, applications, and automated workflows.
+
+API usage, endpoints, and policies are available in the official documentation:
+
+[View the nly.kr URL Shortener API Documentation](https://nly.kr/api)
+
+---
+
+## Chrome Extension
+
+nly.kr also provides a Chrome extension for shortening pages and links directly from the browser.
+
+Users can shorten the current page or selected links without returning to the nly.kr website.
+
+[Learn more about the nly.kr Chrome Extension](https://nly.kr/chrome-extension)
 
 ---
 
 ## PDF Document Service
 
-nly.kr also provides tools for creating and managing PDF documents directly from the web.
+nly.kr provides web-based tools for creating and managing PDF documents.
 
-Users can create documents such as quotations, resumes, meeting notes, or certificates, and share them through generated links.
+Users can create documents such as quotations, resumes, meeting notes, or certificates and share them through generated links.
 
 ### Features
+
 - Web-based document creation
 - PDF download and link-based sharing
 - Private and password-protected documents
 - View statistics for shared documents
 - Suitable for business and administrative use
 
-Product details:
-https://nly.kr/pdf-product-new
-
----
-
-## API Access
-
-The platform offers API access for developers who want to integrate URL shortening into their own services.
-
-API usage and policies are documented on the official website.
+[View PDF service details](https://nly.kr/pdf-product-new)
 
 ---
 
@@ -70,7 +87,6 @@ API usage and policies are documented on the official website.
 
 This repository serves as a public reference and documentation space for the nly.kr service.
 
-It is intended to provide an overview of available features, usage concepts, and service structure.
+It provides an overview of available features, usage concepts, developer resources, and service structure.
 
-
-For Korean documentation, see README.ko.md.
+For Korean documentation, see [README.ko.md](README.ko.md).
